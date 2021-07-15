@@ -14,11 +14,14 @@ layout: default
 
 <br>
 
-1. pedro
-2. ivan
-3. cesar
-   1.*andres
-   2.*fabian
+1. andres
+2. juan
+3. ivan
+4. -carlos
+5. *david
+6. 
+    
+   
 
 <br>
 
