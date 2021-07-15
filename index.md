@@ -6,9 +6,23 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <br>
 
-{% include 03-links.md %}
+[GitHub](http://github.com)
 
+<br>
+
+1. andres
+2. juan
+3. ivan
+4. -carlos
+5. *david
+6. 
+    
+   
+
+<br>
+
+{% include 05-emphasis.md %}
